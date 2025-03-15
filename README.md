@@ -1,4 +1,5 @@
 👋 Hi there!
+
 Working on GPU performance analysis, benchmarking, and system-level optimizations. Mostly focused on OpenCL, CUDA, and ML workloads, with experience in debugging and profiling compute applications.
 
 🔹 Interested in low-level debugging, performance tuning, and benchmarking
